@@ -1,0 +1,23 @@
+#Hangman a{
+ 	padding: 10px;
+ 	background-color: #5DADE2;
+ 	border: 1px solid black;
+ 	text-decoration: none;
+ 	cursor: pointer;
+ }
+
+ #letters a{
+ 	color: black;
+ 	background-color: #5DADE2;
+ 	border-radius: 10px;
+ 	padding: 20px;
+ 	cursor: pointer;
+  }
+
+  #letters a:hover {
+	color: red;
+	background-color: yellow;
+	height:200px;
+  }
+  
+ 
